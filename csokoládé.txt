@@ -4,3 +4,10 @@ négyetes
 ét
 fehér
 tej
+töltött
+tömör
+üreges
+mogyorós
+magyaros
+húsos
+csípős
